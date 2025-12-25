@@ -18,7 +18,7 @@ Sri Lanka Tourism Development Authority (SLTDA)
 - Average Monthly Arrivals
 - Maximum Arrivals
 - Year-over-Year (YoY) Growth %
-- 
+  
 ## Tools Used
 - Power BI
 - Power Query

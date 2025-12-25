@@ -25,6 +25,5 @@ Sri Lanka Tourism Development Authority (SLTDA)
 - DAX
 - Excel
 
-##This dashboard is created for learning and portfolio purposes only.
-This dashboard is created for learning and portfolio purposes only.
+## This dashboard is created for learning and portfolio purposes only.
 

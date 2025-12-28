@@ -30,5 +30,5 @@ Sri Lanka Tourism Development Authority (SLTDA)
 - Filters and slicers for time periods and categories
 - KPI cards highlighting key performance metrics
 
-- This dashboard is created for learning and portfolio purposes only.
+## This dashboard is created for learning and portfolio purposes only.
 
